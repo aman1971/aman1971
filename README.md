@@ -6,7 +6,11 @@
          width="45" />
     I'm Aman!
 </h1>
-<h2 align="center">[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-kumar-3394b81a0/)</h2>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/aman-kumar-3394b81a0/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/7ltN7lCgF2MQE/giphy.gif">
 
