@@ -15,8 +15,11 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/7ltN7lCgF2MQE/giphy.gif">
 
 - 🌱 I'm currently learning NLP with Python.
-- 👯 I’m looking to collaborate on opensource
+
+- 👯 I’m looking to collaborate on opensource project that uses my skills
+
 - 💬 Ask me about python, opensource & machine learning
+
 - 😄 Pronouns: He/Him
 
 ## My Github stats :sparkles:
